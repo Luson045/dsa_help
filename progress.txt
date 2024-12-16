@@ -8,11 +8,12 @@ progress
 6) Graph image to graph data set converter [FINAL GOAL]
 
 Topics covered:
+Luson:
 1) Classes and objects
 2) Scope Resolution
 3) Vectors and Strings
-4) File Handling(Write)
+4) File Handling
+5) STL
 
 To-Do:
-1)File Handling(read)
 2)Polymorphism and Inheritance

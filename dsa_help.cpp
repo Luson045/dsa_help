@@ -172,3 +172,8 @@ void Writer::writetopic(char* topic, char* f){
   file.close();
 }
 
+
+//template array to store any type of items
+
+/*nagori*/// Stack implementation
+// Stack implementation
