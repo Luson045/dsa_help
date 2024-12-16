@@ -1,0 +1,7 @@
+GUIDE TO USE THE LIBRARY
+
+1) TO COMPILE THE .EXE FILE
+  g++ main.cpp dsa_help.cpp -o main
+
+2) RUN THE MAIN.EXE FILE
+  ./main

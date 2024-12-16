@@ -1,0 +1,18 @@
+progress
+
+1) added linkedlist [DONE]
+2) Added the writer [DONE]
+3) Add stack 
+4) Add queue
+5) Add Graph
+6) Graph image to graph data set converter [FINAL GOAL]
+
+Topics covered:
+1) Classes and objects
+2) Scope Resolution
+3) Vectors and Strings
+4) File Handling(Write)
+
+To-Do:
+1)File Handling(read)
+2)Polymorphism and Inheritance
