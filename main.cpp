@@ -28,11 +28,15 @@ int main()
   cout << "height: " << height << endl;
   t1.writebeautiful("test.txt");
 
-  // array of character
+  // array of integer
   Array<int> a;
   a.insert(10);
   a.insert(20);
   a.show();
+  //array of character
+  Array<char> b;
+  b.insert('a');
+  b.show();
 
   // stack and queue
       DataStructure* ds;
