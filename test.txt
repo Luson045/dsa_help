@@ -12,3 +12,17 @@ the tree is:
 	4		6 
 
 
+LinkedLists-->
+the linked list is: 
+10->21->10->21->null
+NOTE:
+Linked list is a data structure that stores elements in it's node, each node points to a next node, hence the nodes can access the next element starting from head to tail.
+----Trees---
+NOTES:
+this is a BST
+the tree is: 
+			10		
+		5		11 
+	4		6 
+
+
